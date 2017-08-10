@@ -1,1 +1,1 @@
-This script is to enable login features..
+This script is to enable Login features..
